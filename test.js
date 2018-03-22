@@ -6,3 +6,5 @@ function Stu (){
     age:12;
     sex:"男";
 }
+console.log(Stu().name);
+let z="qztsdfdsafadsf";
