@@ -8,3 +8,4 @@ function Stu (){
 }
 console.log(Stu().name);
 let z="qztsdfdsafadsf";
+let n="werewrew"
